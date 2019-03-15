@@ -1,4 +1,7 @@
 	.DS_Store
 	*.m~
 	*_backup.m
-	matlab.mat
+	*.mat
+	images/*
+	*.ply
+
